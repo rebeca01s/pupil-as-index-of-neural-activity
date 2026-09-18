@@ -4,7 +4,7 @@ Does pupil size track the population state of mouse primary visual cortex (VISp)
 
 Data: **Allen Visual Coding – Neuropixels** ([DANDI:000021](https://dandiarchive.org/dandiset/000021)), read by streaming — the session files are several GB and are never downloaded in full.
 
-The analysis starts from one session and is then extended to every session in the dataset that has eye tracking.
+**Scope.** This is a learning project: a first hands-on pass at reading NWB files through the Python API and at working with spike data, so the emphasis is on building the pipeline and its controls correctly rather than on a new finding. It starts from one session and is then extended to every session in the dataset that has eye tracking.
 
 ## Result
 
